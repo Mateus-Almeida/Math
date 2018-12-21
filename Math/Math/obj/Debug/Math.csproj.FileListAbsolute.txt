@@ -1,0 +1,7 @@
+c:\users\neder\source\repos\Math\Math\obj\Debug\Math.csprojAssemblyReference.cache
+c:\users\neder\source\repos\Math\Math\obj\Debug\Math.csproj.CoreCompileInputs.cache
+c:\users\neder\source\repos\Math\Math\bin\Debug\Math.exe.config
+c:\users\neder\source\repos\Math\Math\bin\Debug\Math.exe
+c:\users\neder\source\repos\Math\Math\bin\Debug\Math.pdb
+c:\users\neder\source\repos\Math\Math\obj\Debug\Math.exe
+c:\users\neder\source\repos\Math\Math\obj\Debug\Math.pdb
